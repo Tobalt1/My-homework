@@ -1,0 +1,15 @@
+1696790261218,399,HTTP Request,200,OK,Thread Group 1-1,text,true,,1253,133,1,1,https://jsonplaceholder.typicode.com/posts/1,395,0,336
+1696790261651,255,HTTP Request post,201,Created,Thread Group 1-1,text,true,,1068,357,1,1,https://jsonplaceholder.typicode.com/posts,255,0,0
+1696790261908,278,HTTP Request put,200,OK,Thread Group 1-1,text,true,,1095,388,1,1,https://jsonplaceholder.typicode.com/posts/1,278,0,0
+1696790262187,278,HTTP Request PATCH,200,OK,Thread Group 1-1,text,true,,1215,327,1,1,https://jsonplaceholder.typicode.com/posts/1,278,0,0
+1696790262466,280,HTTP Request DELETE,200,OK,Thread Group 1-1,text,true,,1079,226,1,1,https://jsonplaceholder.typicode.com/posts/1,280,0,0
+1696790264468,162,HTTP Request,200,OK,Thread Group 1-2,text,true,,1251,133,1,1,https://jsonplaceholder.typicode.com/posts/1,162,0,115
+1696790264631,247,HTTP Request post,201,Created,Thread Group 1-2,text,true,,1066,357,1,1,https://jsonplaceholder.typicode.com/posts,246,0,0
+1696790264879,259,HTTP Request put,200,OK,Thread Group 1-2,text,true,,1091,388,1,1,https://jsonplaceholder.typicode.com/posts/1,259,0,0
+1696790265139,257,HTTP Request PATCH,200,OK,Thread Group 1-2,text,true,,1373,327,1,1,https://jsonplaceholder.typicode.com/posts/1,257,0,0
+1696790265398,253,HTTP Request DELETE,200,OK,Thread Group 1-2,text,true,,1083,226,1,1,https://jsonplaceholder.typicode.com/posts/1,252,0,0
+1696790267801,154,HTTP Request,200,OK,Thread Group 1-3,text,true,,1249,133,1,1,https://jsonplaceholder.typicode.com/posts/1,154,0,103
+1696790267955,260,HTTP Request post,201,Created,Thread Group 1-3,text,true,,1058,357,1,1,https://jsonplaceholder.typicode.com/posts,260,0,0
+1696790268216,253,HTTP Request put,200,OK,Thread Group 1-3,text,true,,1099,388,1,1,https://jsonplaceholder.typicode.com/posts/1,253,0,0
+1696790268470,256,HTTP Request PATCH,200,OK,Thread Group 1-3,text,true,,1377,327,1,1,https://jsonplaceholder.typicode.com/posts/1,256,0,0
+1696790268728,255,HTTP Request DELETE,200,OK,Thread Group 1-3,text,true,,1083,226,1,1,https://jsonplaceholder.typicode.com/posts/1,255,0,0
